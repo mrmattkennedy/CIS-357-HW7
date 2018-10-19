@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatoApp</string>
+    <string name="title_activity_vice_selection">ViceSelectionActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="vices">
+    </string-array>
+</resources>
